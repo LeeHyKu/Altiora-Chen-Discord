@@ -1,7 +1,7 @@
 {
   "name": "chen",
   "version": "1.2.0",
-  "description": "Chen",
+  "description": "Deploy repo, Discord bot, Universal, Node.js(TS3) \"Ch'en\"",
   "main": "./source/app.js",
   "license": "GPL-v3.0",
   "author": {
