@@ -1,0 +1,24 @@
+{
+  "name": "chen",
+  "version": "1.2.0",
+  "description": "Chen",
+  "main": "./source/app.js",
+  "license": "GPL-v3.0",
+  "author": {
+    "name": "HKLee",
+    "email": "harry9111@naver.com",
+    "url": "https://github.com/LeeHyKu/Altiora-Chen-Discord"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.4",
+    "@types/ws": "^7.2.4"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.2.1",
+    "discord.js": "^12.2.0",
+    "ffmpeg-static": "^4.2.1",
+    "music-metadata": "^6.3.7",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^2.1.2"
+  }
+}
